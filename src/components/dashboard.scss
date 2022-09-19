@@ -1,0 +1,27 @@
+$breakpoint-tablet: 1000px;
+$breakpoint-mobile: 500px;
+
+
+.title {
+    width: 100vw;
+    text-align: center;
+    font-family: 'PokemonSolidNormal';
+    color: #ffcb05;
+    margin: 0;
+    text-shadow: -3px -3px 0 #3c5aa6, 3px -3px 0 #3c5aa6, -3px 3px 0 #3c5aa6, 3px 3px 0 #3c5aa6;
+    font-size: 3vw;
+    @media (max-width: $breakpoint-tablet) {
+        font-size: 6vw;
+    }
+      @media (max-width: $breakpoint-mobile) {
+        font-size: 12vw;
+    }
+}
+
+.grid {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
