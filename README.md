@@ -8,6 +8,8 @@ The UI is based on user interaction. The user clicks on a pokemon which brings u
 
 Generic instructions on how to run the app are available below.
 
+To view the app hosted on Netlify navigate here: https://ashley-pokemon-pokedex.netlify.app
+
 
 
 # Getting Started with Create React App
