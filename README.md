@@ -1,10 +1,16 @@
 # Welcome to Ashley's Pokedex App
 
-This is an app that displays the first 151 pokemon
+This is an app that displays the first 151 pokemon.
 It is built using Create-React-App and the Pokemon api: https://pokeapi.co/
+The fast-average-color npm package is a dependancy
+
+The UI is based on user interaction. The user clicks on a pokemon which brings up a picture of the pokemon and a little description about the pokemon.
 
 Generic instructions on how to run the app are available below.
-The UI is based on user interaction. The user clicks on a pokemon which brings up a picture of the pokemon and a little description about the pokemon.
+
+To view the app hosted on Netlify navigate here: https://ashley-pokemon-pokedex.netlify.app
+
+
 
 # Getting Started with Create React App
 
